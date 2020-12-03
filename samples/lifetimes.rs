@@ -1,5 +1,5 @@
 
 struct A {
-    one: "one";
-    two: "two";
+    one: &str;
+    two: &str;
 }
